@@ -1,5 +1,3 @@
-,id,employeeID,name,designation,managerId,questions,aggregatedScore,createdAt,updatedAt
-0,3,JMD363,Aswath,Software Engineer,JMD364,"[5, 5, 5, 5, 5]",100.0,2024-10-03 08:20:10.796000+00:00,2024-10-03 08:20:10.796000+00:00
-1,4,JMD327,Prasad,Principle Architect,JMD364,"[1, 1, 1, 1, 1]",20.0,2024-10-03 11:06:38.390000+00:00,2024-10-03 11:06:38.390000+00:00
-2,5,JMD617,User_1,Principle Architect,JMD364,"[1, 1, 1, 1, 1]",20.0,2024-10-04 11:43:20.460000+00:00,2024-10-04 11:43:20.460000+00:00
-3,6,JMD596,User_11,Data Engineer,JMD364,"[1, 1, 1, 1, 1]",20.0,2024-10-04 13:10:38.163000+00:00,2024-10-04 13:10:38.163000+00:00
+id,employeeID,name,designation,managerId,questions,aggregatedScore,createdAt,updatedAt
+4,JMD002,Malathi,Principal Architect,JMD364,"[5, 5, 5, 5, 5]",100.0,2024-10-02 15:18:23.927000+00:00,2024-10-02 15:18:23.927000+00:00
+5,JMD363,Bharani,Software Engineer,JMD364,"[4, 1, 1, 1, 1]",32.0,2024-10-02 17:52:22.354000+00:00,2024-10-02 17:52:22.354000+00:00
