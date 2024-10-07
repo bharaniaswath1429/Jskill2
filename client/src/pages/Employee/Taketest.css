@@ -1,0 +1,55 @@
+.quiz-container {
+    max-height: 100vh; /* Set max height for scrolling */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 20px; /* Add some padding */
+  }
+  
+  .quiz-card {
+    border: 1px solid #ccc; /* Card border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Padding inside the card */
+    background-color: #fff; /* Background color */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  .quiz-question {
+    margin-bottom: 20px; /* Space between questions */
+  }
+  
+  .quiz-answer {
+    margin-bottom: 10px; /* Space between options */
+    cursor: pointer; /* Pointer cursor for clickable answers */
+  }
+  
+  .answer-label {
+    padding: 10px; /* Padding around the answer text */
+    border: 1px solid #ccc; /* Border for each option */
+    border-radius: 5px; /* Rounded corners for options */
+    display: block; /* Make the label fill the block */
+  }
+  
+  .answer-label.selected {
+    background-color: #007bff; /* Change this to the color you prefer for the selected option */
+    color: white; /* Text color for the selected option */
+  }
+  
+  .submit-button {
+    margin-top: 20px; /* Space above submit button */
+    padding: 10px 20px; /* Padding inside button */
+    background-color: #28a745; /* Button color */
+    color: white; /* Text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor for button */
+  }
+  
+  .start-button {
+    margin-top: 20px; /* Space above start button */
+    padding: 10px 20px; /* Padding inside button */
+    background-color: #007bff; /* Start button color */
+    color: white; /* Text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor for button */
+  }
+  

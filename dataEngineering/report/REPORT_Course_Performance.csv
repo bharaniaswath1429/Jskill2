@@ -1,0 +1,5 @@
+courseID,course,total_participants,average_score,average_time_spent,total_attempts
+117,QA,1,40.0,10.0,1
+119,Java,1,70.0,30.0,3
+127,Javascript,1,20.0,9.0,1
+135,Data Science,1,30.0,10.5,3
